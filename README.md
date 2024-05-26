@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 This file contain information about steps to follow to use the repo.
 
 This file also contain information about project files.
+
+This file also contain information about project file2.
